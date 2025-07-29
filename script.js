@@ -8,12 +8,12 @@ class Person {
 		
 	}
 
-	get getName (){
+	get personName (){
 
 		return this.name;
 	}
 
-	set getAge (age) {
+	set personAge (age) {
 
 		this.age = age;
 		
